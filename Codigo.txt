@@ -1,3 +1,4 @@
 funcion1
 funcion2
-funcion3
+funcion3*
+funcion4%%
