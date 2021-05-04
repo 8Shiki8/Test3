@@ -4,3 +4,4 @@ funcion3*
 funcion4%%
 funcion5
 funcion7 rama1
+funcion6 master
